@@ -1,0 +1,9 @@
+res://Scenes/world.tscn
+res://Scripts/enemy_spawner.gd
+res://Scripts/hit_box.gd
+res://Scenes/player.tscn
+res://Scenes/enemy.tscn
+res://Scenes/hurt_box.tscn
+res://Scenes/hit_box.tscn
+res://Scenes/enemy_spawner.tscn
+res://Scripts/spawn_info.gd
